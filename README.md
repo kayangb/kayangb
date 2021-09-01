@@ -1,8 +1,9 @@
 ## Hi! My name is kayan
 
-- 🌱 Estudando Python
-- ✨ Espero poder ingressar no ramo de Astronomia Computacional
-- 📫 Contate-me no email: kayaneoq@gmail.com
+- 🌱 Estudying Python
+- ✨ lover of space and programming
+- 📫 contact me at: kayaneoq@gmail.com
+- 👨‍💻 Discord: Kayn#1354
 
 
 <div>
