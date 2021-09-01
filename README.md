@@ -8,8 +8,8 @@
 <div>
   <div style="display: inline_block"><br>
   <a href="https://github.com/kayangb">
-  <img height="148em" src="https://github-readme-stats.vercel.app/api?username=kayangb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayangb&layout=compact&langs_count=7&theme=dark"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=kayangb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayangb&layout=compact&langs_count=7&theme=dark"/>
   <img align="left" alt="ola-gif" src="https://cdn.discordapp.com/attachments/478012646692618245/882667164753076234/mochizou-mochizou-ooji.gif">
 </div>
 <img align="center" alt="kayan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
