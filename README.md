@@ -1,4 +1,4 @@
-## Olá! Eu sou o Kayangb
+## Olá! Eu sou o Kayan
 
 - 🌱 Estudando Python
 - ✨ Espero poder ingressar no ramo de Astronomia Computacional
