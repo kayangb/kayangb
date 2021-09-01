@@ -1,4 +1,4 @@
-studying## Hi! My name is kayan
+## Hi! My name is kayan
 
 - 🌱 Studying Python
 - ✨ Lover of space and programming
