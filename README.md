@@ -1,4 +1,4 @@
-## Olá! Eu sou o Kayan
+## Hi! My name is kayan
 
 - 🌱 Estudando Python
 - ✨ Espero poder ingressar no ramo de Astronomia Computacional
