@@ -1,8 +1,8 @@
 studying## Hi! My name is kayan
 
 - 🌱 Studying Python
-- ✨ lover of space and programming
-- 📫 contact me at: kayaneoq@gmail.com
+- ✨ Lover of space and programming
+- 📫 Contact me at: kayaneoq@gmail.com
 - 👨‍💻 Discord: Kayn#1354
 
 
