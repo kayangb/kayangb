@@ -3,7 +3,7 @@
 - 🌱 Studying Python
 - ✨ Lover of space and programming
 - 📫 Contact me at: kayaneoq@gmail.com
-- 👨‍💻 Discord: Kayn#1354
+- 👨‍💻 Discord: Kayn#5449
 
 
 <div>
