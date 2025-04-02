@@ -1,9 +1,9 @@
 ## Hi! My name is kayan
 
-- 🌱 Studying Python
+- 🌱 Studying Data Science
 - ✨ Lover of space and programming
 - 📫 Contact me at: kayaneoq@gmail.com
-- 👨‍💻 Discord: Kayn#5449
+- 👨‍💻 Discord: kayanzz
 
 
 <div>
